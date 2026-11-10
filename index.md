@@ -1,5 +1,3 @@
-# Privacybeleid
-
 Dit privacybeleid is van toepassing op de mobiele applicaties ("Apps") die worden aangeboden door Zwinselmaniacs. Dit document legt uit hoe er wordt omgegaan met gegevens wanneer je onze Apps downloadt en gebruikt. 
 
 ## 1. Lokale gegevensopslag
