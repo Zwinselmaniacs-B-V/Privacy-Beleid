@@ -23,8 +23,6 @@ Omdat alle app-specifieke gebruikersdata lokaal op jouw eigen apparaat blijft, b
 ## 4. Privacy van kinderen
 Onze Apps zijn in principe niet expliciet ontworpen om persoonlijke gegevens van kinderen onder de 13 jaar te verzamelen. Omdat wij zelf geen data verzamelen op servers, verzamelen wij ook geen data van kinderen. Let wel op dat externe advertentienetwerken zoals Google AdMob eigen beleidsregels hanteren met betrekking tot het serveren van advertenties aan minderjarigen. 
 
-*(Let op: Als je app specifiek gericht is op kinderen en deelneemt aan het "Designed for Families" programma van Google Play, ben je verplicht AdMob zo in te stellen dat er uitsluitend gezinsvriendelijke advertenties worden getoond zonder gepersonaliseerde tracking).*
-
 ## 5. Wijzigingen in het privacybeleid
 Wij behouden ons het recht voor om dit privacybeleid van tijd tot tijd aan te passen, bijvoorbeeld om te voldoen aan nieuwe regelgeving van de Google Play Store. Eventuele wijzigingen zijn direct van kracht na publicatie van het nieuwe beleid. Wij raden je aan dit beleid periodiek te raadplegen.
 
